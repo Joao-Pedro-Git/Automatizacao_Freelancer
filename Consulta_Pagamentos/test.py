@@ -1,7 +1,9 @@
+# app.py para testar se os dados estão indo para planilha 
+
 import openpyxl
 
 # Abrir a planilha de fechamento
-planilha_fechamento = openpyxl.Workbook()
+planilha_fechamento = openpyxl.Workbook("Sua Planilha de Test !AQUI!")
 pagina_fechamento = planilha_fechamento.active
 
 # Adicionar alguns dados de exemplo
