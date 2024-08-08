@@ -9,5 +9,3 @@ Peguei a base no video:
 O projeto verifica dados de uma planilha em um site, e faz outra planilha como report.
 
 Bibliotecas: Openpyxl, Time e Selenium.
-
-Espero que gostem 😎
